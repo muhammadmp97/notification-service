@@ -1,0 +1,4 @@
+New login to the system,
+
+<b>Device:</b> {{ device }}  
+<b>IP:</b> {{ ip }}  

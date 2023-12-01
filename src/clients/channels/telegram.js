@@ -6,7 +6,8 @@ const telegram = (chatId, text) => {
 
   const data = {
     chat_id: chatId,
-    text: text
+    text: text,
+    parse_mode: 'html'
   }
 
   axios.post(url, data)
