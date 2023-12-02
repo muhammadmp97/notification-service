@@ -1,0 +1,2 @@
+There's a <b>{{ percent }}%</b> discount for you,
+the discount code is: <tg-spoiler>{{ code }}</tg-spoiler>.
