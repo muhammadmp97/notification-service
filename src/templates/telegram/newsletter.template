@@ -1,0 +1,4 @@
+🆕 <b>Here's a list of latest articles:</b>
+@foreach(links as linkObject)
+- <a href="{{ linkObject.link }}">{{ linkObject.title }}</a>
+@endforeach()
